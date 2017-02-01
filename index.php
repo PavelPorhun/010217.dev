@@ -1,1 +1,7 @@
-
+<!DOCTYPE html>
+<html>
+    <head></head>
+    <body>
+        <!-- Содержание страницы -->
+    </body>
+</html>
