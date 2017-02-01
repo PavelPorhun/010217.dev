@@ -26,7 +26,7 @@ if($_POST['submit']){
         </p>
 <hr />
         <br />
-        <form method="post" action="auth">
+        <form method="post" action="auth.php">
 	        Username: <input type="text" name="user" /><br />
 	        Password: <input type="password" name="pass" /><br />
 	        <input type="submit" name="submit" value="Войти" />
