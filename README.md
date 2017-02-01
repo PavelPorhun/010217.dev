@@ -6,6 +6,7 @@
 #Вывод:
 выполнять Д.З.
 <br>
+#Screenshot
 <img src="http://i.piccy.info/i9/f81330eab6b06d9f7360781d1437bc4f/1485956597/4120/1114444/1_240.jpg"/>
 <img src="http://i.piccy.info/i9/f81330eab6b06d9f7360781d1437bc4f/1485956597/4120/1114444/1_240.jpg"/>
 <img src="http://i.piccy.info/i9/f81330eab6b06d9f7360781d1437bc4f/1485956597/4120/1114444/1_240.jpg"/>
